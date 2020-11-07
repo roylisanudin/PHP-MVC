@@ -1,2 +1,2 @@
 # PHP-MVC
-Project membuat data mahasiswa dengan metode MVC
+Project membuat data mahasiswa menggunakan bahasa pemrograman PHP dengan metode MVC
